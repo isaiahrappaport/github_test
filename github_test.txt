@@ -2,7 +2,7 @@ The following text file contains a:
 
 message that says:
 
-The following text file contains a:
+"The following text file contains a:
 
 message that says:
 
@@ -16,5 +16,5 @@ message that says:
 
 The following text file contains a:
 
-message that says:
+message that says:"
 
